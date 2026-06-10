@@ -359,13 +359,13 @@ export const botConfig = {
     // Welcome template posted when a user joins.
     // Placeholders: {user}, {server}, {memberCount}
     defaultWelcomeMessage:
-      "Welcome {user} to {server}! We now have {memberCount} members!",
+      "We're happy to have you here, {user}!\n╰┈➤ Before you dive in, please take a quick look at the 1472743632460316894.\n╰┈➤ Once you've done that, be sure to grab some extra 1472695038009020446 so your experience will be even better! <3\n╰┈➤ When you're ready, come say hi and let us know what you've been playing/watching lately!",
     // Goodbye template posted when a user leaves.
     // Placeholders: {user}, {memberCount}
     defaultGoodbyeMessage:
       "{user} has left the server. We now have {memberCount} members.",
     // Channel ID for welcome messages.
-    defaultWelcomeChannel: null,
+    defaultWelcomeChannel: "1472658221096370419",
     // Channel ID for goodbye messages.
     defaultGoodbyeChannel: null,
   },
